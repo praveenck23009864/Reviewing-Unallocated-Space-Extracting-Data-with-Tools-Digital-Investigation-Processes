@@ -43,12 +43,17 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 160354" src="https://github.com/user-attachments/assets/71ad99b6-8462-494d-8ff0-e3da020c7ec5" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 160423" src="https://github.com/user-attachments/assets/b1c02813-fa77-47a9-9be1-ba97ff0dba88" />
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/6df7e55c-292a-4d9c-8151-68a2e82be74e" />
-<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/01efea70-9a1e-4d37-a2f3-6f3f766a230e" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 105035" src="https://github.com/user-attachments/assets/10eccbc0-b371-4e7f-92ed-65efd72630ae" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 105157" src="https://github.com/user-attachments/assets/f49a570b-c6c8-43d6-bef3-4c7204886c85" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 103254" src="https://github.com/user-attachments/assets/a05b2705-ae2a-47b2-97c6-93950803297d" />
++<img width="1919" height="1076" alt="Screenshot 2025-09-22 103337" src="https://github.com/user-attachments/assets/e8a4a6c8-dc0c-44bb-89b9-acb8f90c6381" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 103434" src="https://github.com/user-attachments/assets/647debe6-b12d-40df-937b-fedec7612f32" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 103434" src="https://github.com/user-attachments/assets/a79a9ed8-11e9-467e-8cb5-8d7cc85a9676" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 105259" src="https://github.com/user-attachments/assets/bac90aaa-4596-45c8-ab2b-32cf84ccd50b" />
 
-<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/cebb83ba-8e16-4bf9-8bf5-82feb15e5254" />
+
+
+
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
 
